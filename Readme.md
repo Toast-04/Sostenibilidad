@@ -1,3 +1,23 @@
+# Octubre
+
+## Clase 4
+
+### Limite de carga de los ecosistemas
+Hoy hemos visto que es el límite de carga en clase, este se basa en el límite de individuos que puede tener un ecosistema sin que este se sobrecargue.
+
+Cuando hablo de sobrecargar me refiero a la idea de que si una especie plorifera más que su límite, y en este no hay equilibrio, la especie tiene una tendencia a desaparecer.
+
+
+La pregunta de hoy es: *¿Hay un límite para la población humana?*
+
+En efecto, hay un límite de la población humana. Puesto que el ser humano necesita de multiples recursos para vivir de manera comoda y sencilla, hay un limite.
+
+Este límite puede ser mayor o menor, eso no cabe duda, pero sín embargo, sabemos que ese límite existe. Si fuesemos conscientes con ello, estariamos pendientes de manera más constante sobre los efectos dañinos que realizamos a nuestros ecosistemas, por lo cual, estariamos más equilibrados mediante el límite hasta que haya una decadencia.
+
+---
+
+# Septiembre
+
 ## Clase 1
 
 ### Introducción de la asignatura
