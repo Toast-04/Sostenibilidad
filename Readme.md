@@ -1,5 +1,33 @@
 # Octubre
 
+## Clase 6
+
+### Estrategias r y K
+
+Hoy en clase de sostenibilidad, hemos visto las estrategias de reproducción r y k. Un puqueño resumen seria el siguiente
+
+#### Estrategia r:
+- **Características:**
+    - Alta tasa de reproducción.
+    - Poca inversión en el cuidado de las crías.
+- **Ejemplos:** peces
+- **Objetivo:** cantidad sobre calidad
+
+#### Estrategia K:
+- **Características:**
+    - Baja tasa de reproducción.
+    - Gran inversión de tiempo y recursos en el cuidado y desarrollo.
+- **Ejemplos:**  seres humanos.
+- **Objetivo:** calidad sobre cantidad.
+
+La pregunta de hoy es: "¿Qué estrategia usamos los humanos?"
+
+Los seres humanos utilizados una estrategia de reproducción K, puesto que nos enfocamos en cuidar a los niños, aunque tengamos pocos.
+
+Un caso de estrategia r serian peces o anfibios, puesto que tienen muchas crias pero no los cuidan.
+
+---
+
 ## Clase 5
 
 ### Vivimos solos... ¿verdad?
