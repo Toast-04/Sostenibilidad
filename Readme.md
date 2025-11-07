@@ -1,5 +1,13 @@
 # Octubre
 
+## Clase 7
+
+### Los recursos infinitos de la tierra
+
+La finitud de recursos de la tierra es una de las principales razones por las que se quiere hacer de la tierra un lugar más sostenible. Por 
+eso, aprender ahorrar recursos como el agua es algo importantisimo para la vida humana, además, hemos tenido que escoger un metodo de sostenibilidad de recursos.
+
+
 ## Clase 6
 
 ### Estrategias r y K
