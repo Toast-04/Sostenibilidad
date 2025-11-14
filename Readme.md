@@ -1,3 +1,81 @@
+# Noviembre
+
+## Clase 8
+
+### El viaje de los productos
+
+Hoy hemos visto en clase que cada objeto que fabricamos los humanos tiene un peso oculto detras. Hemos visto el ejemplo
+de un dispositivo movil, que para crear 150g de dispositivo se necesita 80Kg de producción como: materiales, energia, 
+CO2 depositado en la atmosfera...etc.
+
+La pregunta de hoy es ¿Cuantas toneladas hay en el paso de distribución en al creación de un dispositivo movil?
+
+Le he preguntado a ClaudeIA la siguiente info con este prompt:
+
+Quiero esta información:
+1. Top 5 de las cosas que más produce
+2. Total
+3. Formas de solucionarlo
+4. Total con soluciones más eficientes
+
+Respuesta de ClaudeIA:
+
+    Basándome en los estudios de análisis del ciclo de vida (LCA) encontrados, te proporciono la información sobre las 
+    emisiones de CO₂ en la fase de distribución/transporte de dispositivos móviles:
+    
+    EMISIONES EN LA FASE DE DISTRIBUCIÓN
+    1. Top 5 de las cosas que más producen en la distribución:
+       Según los análisis de ciclo de vida, el transporte final contribuye con aproximadamente 3 kg de CO₂e en el 
+       ciclo de vida total (3 años), y los transportes relacionados con la producción representan 2.6 kg CO₂e adicionales 
+       ResearchGate. Los principales componentes son:
+    
+    - Transporte marítimo transoceánico (China/Asia → Europa/América) - Mayor volumen
+    - Transporte aéreo (para envíos urgentes o componentes específicos)
+    - Transporte terrestre por camión (distribución local a tiendas)
+    - Embalaje y packaging (producción y transporte del material de empaque)
+    - Transporte de componentes durante manufactura (entre diferentes fábricas)
+    
+    2. Total de emisiones en distribución:
+       La fase de distribución genera aproximadamente 1.9 kg CO₂eq por año cuando se asume un ciclo de reemplazo bienal 
+       Wiley Online Library. Para un smartphone típico con vida útil de 2-3 años, esto representa entre 3.8 y 5.7 kg de CO₂e totales.
+       Según datos de Apple para un iPhone 13 que emite 64 kg de CO₂ en su ciclo de vida completo: el 81% corresponde a 
+       producción, 16% al uso, y el resto (aproximadamente 3%) a transporte y reciclaje Planete-energies, lo que equivale a 
+       unos 2-3 kg de CO₂e solo para transporte.
+
+    3. Formas de solucionarlo:
+          Optimización del transporte:
+    
+    Aumentar el uso de transporte marítimo vs aéreo: pasar de 50% avión/50% barco a 30% avión/70% barco puede reducir significativamente las emisiones Fairphone
+    Consolidar envíos y optimizar rutas logísticas
+    Usar transporte eléctrico o híbrido para distribución local
+    
+    Producción regional:
+    
+    Establecer centros de ensamblaje más cerca de los mercados finales
+    Reducir la distancia entre proveedores de componentes
+    
+    Diseño de packaging:
+    
+    Reducir peso y volumen del embalaje
+    Usar materiales reciclados y biodegradables
+    Optimizar el diseño para maximizar unidades por contenedor
+    
+    Economía circular:
+    
+    Fomentar mercado de segunda mano (evita nueva distribución)
+    Programas de reacondicionamiento local
+    La compra-venta de dispositivos reacondicionados generó en 2017 en México un ahorro de 49,303 toneladas de CO₂ BioPlanet
+    
+    4. Total con soluciones más eficientes:
+       Aplicando las mejores prácticas:
+    
+    Escenario actual: ~3-5.7 kg CO₂e por dispositivo en distribución
+    Con optimización de transporte (más marítimo, menos aéreo): Reducción del 30-50% → ~1.5-2.85 kg CO₂e
+    Con producción regional + packaging optimizado: Reducción adicional del 20-30% → ~1.0-2.0 kg CO₂e
+    Con economía circular (evitando nueva distribución): Reducción del 80-100% → ~0.2-1.0 kg CO₂e
+    
+    Resultado óptimo: Aproximadamente 1-2 kg CO₂e por dispositivo, lo que representa una reducción de 60-70% respecto al escenario actual.
+
 # Octubre
 
 ## Clase 7
