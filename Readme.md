@@ -8,6 +8,8 @@ Hoy hemos visto en clase que cada objeto que fabricamos los humanos tiene un pes
 de un dispositivo movil, que para crear 150g de dispositivo se necesita 80Kg de producción como: materiales, energia, 
 CO2 depositado en la atmosfera...etc.
 
+![img.png](img.png)
+
 La pregunta de hoy es ¿Cuantas toneladas hay en el paso de distribución en al creación de un dispositivo movil?
 
 Le he preguntado a ClaudeIA la siguiente info con este prompt:
