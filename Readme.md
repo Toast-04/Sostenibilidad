@@ -1,5 +1,15 @@
 # Noviembre
 
+## Clase 9
+
+### ¿?
+
+Hoy no vino Miguel. (Clase libre)
+
+
+
+# Noviembre
+
 ## Clase 8
 
 ### El viaje de los productos
