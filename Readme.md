@@ -1,5 +1,32 @@
 # Noviembre
 
+## Clase 10
+
+### Ecomonia circular y lineal
+
+Hoy con Miguel en clase hemos visto la economia circular, la economia linear y el eco diseño.
+
+Economía circular:
+- Busca minimizar residuos.
+- Promueve reutilizar, reparar....
+- Mantiene los materiales el mayor tiempo posible.
+
+Economía lineal:
+- Modelo tradicional: extraer, producir, usar, y tirar.
+- Genera muchos residuos.
+
+Ecodiseño:
+- Diseña productos pensando en el medio ambiente, priorizando la durabilidad, reparación y eficiencia.
+- Facilita el reciclaje y reduce el impacto ambiental.
+
+La pregunta de hoy es: ¿Y a mí qué me cuentas? - ¿En qué nos afecta el ecodiseño? ¿Enfoque colectivo o individual?
+Nos afecta porque hace que los productos sean más duraderos, reparables y eficientes, lo que nos permite ahorrar energía y dinero.
+l ecodiseño también debería incluir un enfoque individual, porque las decisiones de consumo de cada persona 
+influyen en que las empresas sean más sostenibles.
+
+
+# Noviembre
+
 ## Clase 9
 
 ### ¿?
