@@ -1,3 +1,25 @@
+# Diciembre
+
+## Clase 11
+
+### Huella ecológica y de carbono
+Hoy en la clase de Miguel hemos visto sobre la huella ecológica y la de carbono.
+
+Una breve explicación:
+
+Huella ecológica: Mide cuánta superficie de tierra y agua biológicamente productiva necesitamos para producir los 
+recursos que consumimos. Se expresa en hectáreas globales (hag).
+
+Huella de carbono: mide la cantidd total de gases de CO₂ que generamos. Se mide en toneladas de CO₂ 
+equivalente.
+
+La pregunta de hoy es hacer nuestra huella de carbono dentro de la pagina web footprint calculator: https://www.footprintcalculator.org/es/results/0/summary
+
+Resultado:
+
+![img_1.png](img_1.png)
+![img_2.png](img_2.png)
+
 # Noviembre
 
 ## Clase 10
