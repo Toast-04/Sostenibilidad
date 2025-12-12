@@ -1,5 +1,35 @@
 # Diciembre
 
+## Clase 12
+
+### Cambio climatico ¿Una verdadera amenaza?
+
+Hoy en clase con Miguel hemos visto uno de los temas más importantes del curso, el cambio climatico: es considerada una amenaza real, comprobada y de alto riesgo para la vida en el planeta.
+
+![img_3.png](img_3.png)
+
+La pregunta de hoy es: ¿Cual es el principal emisor de CO2?¿Qué sistemas, en nuestra profesión, construiremos que mejoren/mitiguen el cambio climatico?
+
+El mayor responsable de la emisión del CO2 a nivel global es la quema de combustibles y su producción a plastico.
+Dentro de ese parametro, los productores de energía como la electricidad o el calor son las que mas producen, casi un 40%.
+El transporte y la industria presentan un 20% ambos.
+
+Por lo tanto, la quema de combustibles es el 80% del problema.
+
+![img_5.png](img_5.png)
+
+Sistemas que contruiremos podrian ser los siguientes:
+- Sensores IoT + software de control para agricultura de precisión, reduciendo fertilizantes y consumo de agua.
+- Inteligencia artificial para predecir consumo energético y optimizarlo.
+
+Un ejemplo que se me acaba de ocurrir es una aplicación que gestione y optimice el consumo de energía en centros 
+de datos (data centers) o servidores de empresas. Con eso podremos ahorrar energía y otros consumos esenciales que 
+necesita la empresa y que produce cantidades grandes de CO2
+
+---
+
+# Diciembre
+
 ## Clase 11
 
 ### Huella ecológica y de carbono
@@ -10,7 +40,7 @@ Una breve explicación:
 Huella ecológica: Mide cuánta superficie de tierra y agua biológicamente productiva necesitamos para producir los 
 recursos que consumimos. Se expresa en hectáreas globales (hag).
 
-Huella de carbono: mide la cantidd total de gases de CO₂ que generamos. Se mide en toneladas de CO₂ 
+Huella de carbono: mide la cantidd total de gases de CO₂ que generamos. Se mide en toneladas de CO₂ ![img_4.png](img_4.png)
 equivalente.
 
 La pregunta de hoy es hacer nuestra huella de carbono dentro de la pagina web footprint calculator: https://www.footprintcalculator.org/es/results/0/summary
