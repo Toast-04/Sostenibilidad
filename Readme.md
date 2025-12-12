@@ -6,7 +6,7 @@
 
 Hoy en clase con Miguel hemos visto uno de los temas más importantes del curso, el cambio climatico: es considerada una amenaza real, comprobada y de alto riesgo para la vida en el planeta.
 
-![img_3.png](img_3.png)
+![img_6.png](img_6.png)
 
 La pregunta de hoy es: ¿Cual es el principal emisor de CO2?¿Qué sistemas, en nuestra profesión, construiremos que mejoren/mitiguen el cambio climatico?
 
