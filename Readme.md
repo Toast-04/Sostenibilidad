@@ -1,3 +1,32 @@
+# Enero
+
+## Clase 13 
+
+### Contaminacion y residuos
+![img_7.png](img_7.png)
+
+El concepto de residuos y contaminacion es algo ambiguo, ya que a la gente le cuesta definirlo de tal forma la cual todos estemos de acuerdo
+
+La contaminación principalmente es la acumulacion de residuos a los cuales la sociedad hemos decidido no darle valor
+
+Esa acumulación provoca que paises como la India vivan entre montones de basura, ya que queremos la basura lo mas lejos de nuestra civilizacion afectando a otras.
+
+Eso hemos visto con Miguel la clase de hoy. Dato curioso: Por si te apetece ver contenido audiovisual de este tema
+hay un anime llamado Gachiakuta donde el protagonista tiene la necesidad de arreglar cosas que las demas personas consideran basura.
+
+La pregunta de hoy es: ¿Por que cambias de movil?
+Se cambia de movil por dos motivos, por necesidad o por gusto. 
+
+La gente que la cambia por necesidad es porque el movil se le ha roto, necesita su dispositivo para trabajar y sus cualidades 
+no son las necesarias... En cambio, una persona que lo hace por gusto es que cada año compra su nuevo Iphone indiferente de que mejoras
+o aspectos mejores tiene cuando anteriormente tenia un movil en perfecto estado.
+
+Por mi parte suelo usar las cosas hasta que esta deja de funcionar, principalmente porque me parece un malgasto de recursos. No obstante han habido casos donde
+me he comprado un producto mejor teniendo otro casi nuevo.
+
+![img_8.png](img_8.png)
+
+
 # Diciembre
 
 ## Clase 12
